@@ -11,7 +11,7 @@
 
 ## About Us
 
-Founded in [year], 7Innovation is a collaboration of participants from the Bangkit program committed to bringing positive change through technology.
+Founded in 2024, 7Innovation is a collaboration of participants from the Bangkit program committed to bringing positive change through technology.
 ## Our Team 👥
 
 Meet the talented team at 7Innovation:
