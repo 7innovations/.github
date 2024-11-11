@@ -13,25 +13,25 @@ Let's make the world a healthier, happier place! 🌍💙
 
 Meet the passionate team behind **FixU**:
 
-- **🟢 Active** | **ID:** M283B4KY3439 | **Name:** Nurrizky Arum Jatmiko  
-  **Institution:** Universitas Negeri Semarang | **Role:** Project Manager (ML)
+- **🟢 Active** |  M283B4KY3439 |  **Nurrizky Arum Jatmiko**  
+   Universitas Negeri Semarang |  Project Manager (ML)
 
-- **🟢 Active** | **ID:** M248B4KX0102 | **Name:** Adinda Salsabila  
-  **Institution:** Universitas Lampung | **Role:** Member - Machine Learning (ML)
+- **🟢 Active** |  M248B4KX0102 |  **Adinda Salsabila**  
+   Universitas Lampung |  Member - Machine Learning (ML)
 
-- **🟢 Active** | **ID:** M008B4KY1010 | **Name:** Daru Okta Buana  
-  **Institution:** Universitas Gadjah Mada | **Role:** Member - Machine Learning (ML)
+- **🟢 Active** |  M008B4KY1010 |  **Daru Okta Buana**  
+   Universitas Gadjah Mada |  Member - Machine Learning (ML)
 
-- **🟢 Active** | **ID:** A283B4KY1407 | **Name:** Farhan Husyen Ramadhan  
-  **Institution:** Universitas Negeri Semarang | **Role:** Member - Mobile Development (MD)
+- **🟢 Active** |  A283B4KY1407 |  **Farhan Husyen Ramadhan**  
+   Universitas Negeri Semarang |  Member - Mobile Development (MD)
 
-- **🟢 Active** | **ID:** C497B4KY2075 | **Name:** Jimmy Wira Arba'A  
-  **Institution:** Universitas Putra Indonesia YPTK Padang | **Role:** Member - Cloud Computing (CC)
+- **🟢 Active** |  A128B4KY4027 |  **Salman Ramadan Syahputra**  
+   Politeknik Negeri Jakarta |  Member - Mobile Development (MD)
 
-- **🟢 Active** | **ID:** C356B4KY3422 | **Name:** Nur Saifuddin  
-  **Institution:** Universitas Nahdlatul Ulama Sunan Giri | **Role:** Member - Cloud Computing (CC)
+- **🟢 Active** |  C497B4KY2075 |  **Jimmy Wira Arba'A**  
+   Universitas Putra Indonesia YPTK Padang |  Member - Cloud Computing (CC)
 
-- **🟢 Active** | **ID:** A128B4KY4027 | **Name:** Salman Ramadan Syahputra  
-  **Institution:** Politeknik Negeri Jakarta | **Role:** Member - Mobile Development (MD)
+- **🟢 Active** |  C356B4KY3422 |  **Nur Saifuddin**  
+   Universitas Nahdlatul Ulama Sunan Giri |  Member - Cloud Computing (CC)
 
-Together, we bring diverse skills and dedication to create a mental health app that makes a real difference. 🌈💪
+<br>Together, we bring diverse skills and dedication to create a mental health app that makes a real difference. 🌈💪
