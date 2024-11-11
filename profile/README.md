@@ -35,3 +35,8 @@ Meet the passionate team behind **FixU**:
    Universitas Nahdlatul Ulama Sunan Giri |  Member - Cloud Computing (CC)
 
 <br>Together, we bring diverse skills and dedication to create a mental health app that makes a real difference. 🌈💪
+
+## 👥 Contributors
+
+<a href="https://github.com/raionclaire"><img src="https://github.com/raionclaire.png" width="50" height="50" alt="Adinda Salsabila"></a>
+<a href="https://github.com/farhanhr"><img src="https://github.com/farhanhr.png" width="50" height="50" alt="FarhanHr"></a>
