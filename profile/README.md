@@ -1,6 +1,6 @@
 ## C242-PS064 - Bangkit 2024 Capstone Team Project
 
-# 💚 FixU: A Mental Health Monitoring App 🌱
+# 💚 FixU: Depression Detection App 🌱
 
 Welcome to the **world of Team C242-PS064**! 💪✨ We're a team of passionate creators on a mission to **empower vulnerable communities** and **boost mental well-being**. Together, we're building something impactful, caring, and transformative.
 
