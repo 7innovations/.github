@@ -1,6 +1,6 @@
 ## C242-PS064 - Bangkit 2024 Capstone Team Project
 
-# 💚 FixU: Depression Detection App 🌱
+# 💚 FixU: A Mental Health Monitoring App 🌱
 
 Welcome to the **world of Team C242-PS064**! 💪✨ We're a team of passionate creators on a mission to **empower vulnerable communities** and **boost mental well-being**. Together, we're building something impactful, caring, and transformative.
 
@@ -14,7 +14,7 @@ Let's make the world a healthier, happier place! 🌍💙
 Meet the passionate team behind **FixU**:
 
 - **🟢 Active** |  M283B4KY3439 |  **Nurrizky Arum Jatmiko**  
-   Universitas Negeri Semarang |  Project Manager (ML)
+   Universitas Negeri Semarang |  Project Manager - Machine Learning (ML)
 
 - **🟢 Active** |  M248B4KX0102 |  **Adinda Salsabila**  
    Universitas Lampung |  Member - Machine Learning (ML)
