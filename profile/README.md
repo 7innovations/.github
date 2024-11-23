@@ -1,4 +1,4 @@
-## C242-PS064 - Bangkit 2024 Capstone Team Project
+![image](https://github.com/user-attachments/assets/486e8f3e-d4ff-41b3-bd90-d30b79a45b0e)## C242-PS064 - Bangkit 2024 Capstone Team Project
 
 # 💚 FixU: A Mental Health Monitoring App 🌱
 
@@ -41,8 +41,8 @@ Meet the passionate team behind **FixU**:
 <a href="https://github.com/raionclaire"><img src="https://github.com/raionclaire.png" width="50" height="50" alt="Adinda Salsabila"></a>
 <a href="https://github.com/farhanhr"><img src="https://github.com/farhanhr.png" width="50" height="50" alt="FarhanHr"></a>
 <a href="https://github.com/dinDynamiX"><img src="https://github.com/dinDynamiX.png" width="50" height="50" alt="Adinda Salsabila"></a>
-<a href="https://github.com/nurrizkyarumjatmiko"><img src="https://github.com/nurrizkyarumjatmiko.png" width="50" height="50" alt="Nurrizky"></a>
+<a href="https://github.com/nurrizkyaj"><img src="https://github.com/nurrizkyaj.png" width="50" height="50" alt="Nurrizky"></a>
 <a href="https://github.com/jimmywiraarbaa"><img src="https://github.com/jimmywiraarbaa.png" width="50" height="50" alt="Jimmy"></a>
-
-
+<a href="https://github.com/daruoktab"><img src="https://github.com/daruoktab.png" width="50" height="50" alt="Jimmy"></a>
+<a href="https://github.com/salmanramadhan"><img src="https://github.com/salmanramadhan.png" width="50" height="50" alt="Jimmy"></a>
 
