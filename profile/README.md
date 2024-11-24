@@ -5,7 +5,7 @@ Welcome to the **world of Team C242-PS064**! 💪✨ We're a team of passionate 
 Let's make the world a healthier, happier place! 🌍💙
 
 ## 🌱 Project Overview
-**FixU** is a mental health monitoring application designed to empower individuals and vulnerable communities by promoting mental well-being. Our app provides users with personalized daily notes, mental health insights, and activity-based recommendations, helping them monitor and manage their mental health effectively.
+**FixU** is a depression detection app that leverages the power of machine learning to accurately diagnose the user's depression condition. After the diagnosis, the app provides personalized and valuable feedback, along with a tracking feature. With its intuitive interface, FixU serves as a digital companion, ready to support the user's mental journey towards well-being and recovery.
 
 ## 👥 Meet Our Extraordinary Team 
 
