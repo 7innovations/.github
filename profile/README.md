@@ -5,14 +5,14 @@ Welcome to the **world of Team C242-PS064**! 💪✨ We're a team of passionate 
 Let's make the world a healthier, happier place! 🌍💙
 
 ## 🌱 Project Overview
-**FixU** is a depression detection app that leverages the power of machine learning to accurately diagnose the user's depression condition. After the diagnosis, the app provides personalized and valuable feedback, along with a tracking feature. With its intuitive interface, FixU serves as a digital companion, ready to support the user's mental journey towards well-being and recovery.
+**FixU** is a depression detection app that utilizes the power of machine learning to accurately diagnose the user's depression state. After diagnosis, the app provides personalized feedback. With an intuitive interface, FixU serves as a digital companion ready to support the user's mental journey towards well-being and recovery.
 
 ## 👥 Meet Our Extraordinary Team 
 
 Meet the passionate team behind **FixU**:
 
 - **🟢 Active** |  M283B4KY3439 |  **Nurrizky Arum Jatmiko**  
-   Universitas Negeri Semarang |  Project Manager - Machine Learning (ML)
+   Universitas Negeri Semarang | Leader - Machine Learning (ML)
 
 - **🟢 Active** |  M248B4KX0102 |  **Adinda Salsabila**  
    Universitas Lampung |  Member - Machine Learning (ML)
