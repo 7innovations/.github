@@ -51,13 +51,15 @@ Behind **FixU** is a dynamic team of skilled and dedicated individuals:
 
 Meet the creators making **FixU** a reality:  
 
-<a href="https://github.com/raionclaire"><img src="https://github.com/raionclaire.png" width="50" height="50" alt="Adinda Salsabila"></a>  
-<a href="https://github.com/farhanhr"><img src="https://github.com/farhanhr.png" width="50" height="50" alt="FarhanHr"></a>  
-<a href="https://github.com/dinDynamiX"><img src="https://github.com/dinDynamiX.png" width="50" height="50" alt="Nur Saifuddin"></a>  
-<a href="https://github.com/nurrizkyaj"><img src="https://github.com/nurrizkyaj.png" width="50" height="50" alt="Nurrizky Arum Jatmiko"></a>  
-<a href="https://github.com/jimmywiraarbaa"><img src="https://github.com/jimmywiraarbaa.png" width="50" height="50" alt="Jimmy Wira Arba’A"></a>  
-<a href="https://github.com/daruoktab"><img src="https://github.com/daruoktab.png" width="50" height="50" alt="Daru Okta Buana"></a>  
-<a href="https://github.com/salmanramadhan"><img src="https://github.com/salmanramadhan.png" width="50" height="50" alt="Salman Ramadan Syahputra"></a>  
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://github.com/raionclaire"><img src="https://github.com/raionclaire.png" width="50" height="50" alt="Adinda Salsabila"></a>
+  <a href="https://github.com/farhanhr"><img src="https://github.com/farhanhr.png" width="50" height="50" alt="FarhanHr"></a>
+  <a href="https://github.com/dinDynamiX"><img src="https://github.com/dinDynamiX.png" width="50" height="50" alt="Nur Saifuddin"></a>
+  <a href="https://github.com/nurrizkyaj"><img src="https://github.com/nurrizkyaj.png" width="50" height="50" alt="Nurrizky Arum Jatmiko"></a>
+  <a href="https://github.com/jimmywiraarbaa"><img src="https://github.com/jimmywiraarbaa.png" width="50" height="50" alt="Jimmy Wira Arba’A"></a>
+  <a href="https://github.com/daruoktab"><img src="https://github.com/daruoktab.png" width="50" height="50" alt="Daru Okta Buana"></a>
+  <a href="https://github.com/salmanramadhan"><img src="https://github.com/salmanramadhan.png" width="50" height="50" alt="Salman Ramadan Syahputra"></a>
+</div>
 
 ---
 
