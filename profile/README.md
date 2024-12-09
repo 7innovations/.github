@@ -11,8 +11,8 @@ Let’s create a healthier, happier world—one step at a time! 🌍💙
 **FixU** is an innovative depression detection app that leverages the power of **deep learning** to accurately assess the user's mental state. With a focus on accessibility and personalization, this app provides tailored feedback to support users on their journey toward mental health.
 
 Key features include:  
-- **Machine Learning-Based Diagnosis**: Predicts the likelihood of depression from user input.  
-- **Personalized Feedback**: Offers actionable recommendations for recovery and well-being.  
+- **Deep Learning-Based Diagnosis**: Predicts the likelihood of depression from user input.  
+- **Personalized Feedback**: Providing personalized feedback. 
 - **User-Friendly Interface**: Ensures a seamless and supportive user experience.  
 
 ---
