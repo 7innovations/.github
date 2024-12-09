@@ -1,7 +1,3 @@
-Here’s a polished and enhanced version of your project README:
-
----
-
 # 💚 **FixU: Depression Detection App** 🌱  
 
 Welcome to the **world of Team C242-PS064**! 💪✨ We are a group of passionate innovators dedicated to **empowering vulnerable communities** and **enhancing mental well-being**. Together, we’re building something impactful, compassionate, and transformative.
