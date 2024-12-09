@@ -63,4 +63,4 @@ Meet the creators making **FixU** a reality:
 
 ### **Together, we aim to make a real difference. Let’s FixU!** 🌱💪  
 
-This version improves clarity, adds polished language, and creates a visually appealing layout while maintaining a professional yet friendly tone.
+---
