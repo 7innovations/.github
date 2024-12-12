@@ -42,7 +42,7 @@ Key features include:
 ### 🔬 Machine Learning Team
 | Status | ID | Name | University | Role |
 |--------|----|----- |------------|------|
-| 🟢 Active | M283B4KY3439 | Nurrizky Arum Jatmiko | Universitas Negeri Semarang | ML Team Leader |
+| 🟢 Active | M283B4KY3439 | Nurrizky Arum Jatmiko | Universitas Negeri Semarang | Team Leader |
 | 🟢 Active | M248B4KX0102 | Adinda Salsabila | Universitas Lampung | ML Member |
 | 🟢 Active | M008B4KY1010 | Daru Okta Buana | Universitas Gadjah Mada | ML Member |
 
