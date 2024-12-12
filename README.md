@@ -27,9 +27,9 @@ Meet the talented team at 7Innovation:
 
 ## Repositories 🔗
 
-- [Machine Learning Repository](#) 🧠
-- [Cloud Computing Repository](#) ☁️
-- [Mobile Development Repository](#) 📱
+- [Machine Learning Repository](#https://github.com/7innovations/FixU-Machine-Learning) 🧠
+- [Cloud Computing Repository](#https://github.com/7innovations/FixU-Cloud-Computing) ☁️
+- [Mobile Development Repository](#https://github.com/7innovations/FixU-Mobile-Development) 📱
 
 ---
 
