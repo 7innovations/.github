@@ -25,12 +25,6 @@ Meet the talented team at 7Innovation:
 | A128B4KY4027    | Mobile Development   | Salman Ramadan Syahputra    |
 | A283B4KY1407    | Mobile Development   | Farhan Husyen Ramadhan      |
 
-## Repositories 🔗
-
-- [Machine Learning Repository](# https://github.com/7innovations/FixU-Machine-Learning) 🧠
-- [Cloud Computing Repository](# https://github.com/7innovations/FixU-Cloud-Computing) ☁️
-- [Mobile Development Repository](# https://github.com/7innovations/FixU-Mobile-Development) 📱
+Thank you for your support and interest in 7Innovation! Let's innovate together! 🎉🙌
 
 ---
-
-Thank you for your support and interest in 7Innovation! Let's innovate together! 🎉🙌
