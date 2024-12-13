@@ -33,10 +33,6 @@ Key features include:
 - Google Play Services
 
 ---
-### Download
-[Download Latest APK](link-to-apk)
-
----
 ## 👥 Our Extraordinary Team
 
 ### 🔬 Machine Learning Team
