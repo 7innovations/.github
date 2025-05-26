@@ -70,6 +70,6 @@ Meet the creators making **FixU** a reality:
 ---
 ## 🌍 Impact Vision
 
-**Together, we're not just building an app—we're creating a compassionate technology that supports mental wellness, reduces stigma, and empowers individuals to take control of their mental health journey.** 
+**Together, we're not just building an app we're creating a compassionate technology that supports mental wellness, reduces stigma, and empowers individuals to take control of their mental health journey.** 
 
 **Let's FixU and make a difference!** 🌱💪
