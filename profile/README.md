@@ -30,7 +30,6 @@ Key features include:
 ### Prerequisites
 - Android 6.0+
 - Internet Connection
-- Google Play Services
 
 ---
 ## 👥 Our Extraordinary Team
