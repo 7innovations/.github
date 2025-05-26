@@ -1,26 +1,26 @@
-# 💚 **FixU: Depression Detection App** 🌱  
+# 💚 **FixU: Depression Detection App**
 
-Welcome to the **world of Team C242-PS064**! 💪✨ We are a group of passionate innovators dedicated to **empowering vulnerable communities** and **enhancing mental well-being**. Together, we’re building something impactful, compassionate, and transformative.
+Welcome to the **world of Team C242-PS064**! We are a group of passionate innovators dedicated to **empowering vulnerable communities** and **enhancing mental well-being**. Together, we’re building something impactful, compassionate, and transformative.
 
-Let’s create a healthier, happier world one step at a time! 🌍💙  
+Let’s create a healthier, happier world one step at a time! 
 
 ---
-
 ## 🌟 **Project Overview**  
 
-**FixU** is an innovative depression detection app that leverages the power of **deep learning** to accurately assess the user's mental state. With a focus on accessibility and personalization, this app provides tailored feedback to support users on their journey toward mental health.
+**FixU** is an innovative depression detection app that leverages the power of **artificial neural network** to accurately assess the user's mental state. With a focus on accessibility and personalization, this app provides tailored feedback to support users on their journey toward mental health.
 
-
+---
 Key features include:  
-- **Deep Learning-Powered Diagnosis**: Predicts the likelihood of depression from user input using advanced TensorFlow Neural Network models.  
+
+- **Artificial Neural Network-Powered Diagnosis**: Predicts the likelihood of depression from user input.  
 - **Personalized Feedback**: Providing personalized feedback. 
-- **User-Friendly Interface**: Intuitive, stigma-free interface, privacy-focused journaling tools, and adaptive user experience.  
+- **User-Friendly Interface**: Intuitive, privacy-focused journaling tools, and adaptive user experience.  
 
 ---
 ## 🔒 Ethical Commitments
 
 - Strict user data privacy
-- Transparent AI decision-making
+- Transparent decision-making
 - Continuous ethical review
 - User consent and control
 
@@ -56,7 +56,6 @@ Key features include:
 
 Meet the creators making **FixU** a reality:  
 
-
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://github.com/nurrizkyaj"><img src="https://github.com/nurrizkyaj.png" width="50" height="50" alt="Nurrizky Arum Jatmiko"></a>
   <a href="https://github.com/daruoktab"><img src="https://github.com/daruoktab.png" width="50" height="50" alt="Daru Okta Buana"></a>
@@ -66,10 +65,11 @@ Meet the creators making **FixU** a reality:
   <a href="https://github.com/dinDynamiX"><img src="https://github.com/dinDynamiX.png" width="50" height="50" alt="Nur Saifuddin"></a>
 </div>
 
-
 ---
 ## 🌍 Impact Vision
 
-**Together, we're not just building an app we're creating a compassionate technology that supports mental wellness, reduces stigma, and empowers individuals to take control of their mental health journey.** 
+**Together, we're not just building an app we're creating a compassionate technology that supports mental wellness, and empowers individuals to take control of their mental health journey.** 
 
-**Let's FixU and make a difference!** 🌱💪
+**Let's FixU and make a difference!** 💪
+
+---
